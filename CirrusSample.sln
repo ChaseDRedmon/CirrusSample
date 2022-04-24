@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CirrusTest", "CirrusTest\CirrusTest.csproj", "{062FFD03-54C9-48AE-8F70-3C286B527574}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CirrusSample", "CirrusSample\CirrusSample.csproj", "{062FFD03-54C9-48AE-8F70-3C286B527574}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

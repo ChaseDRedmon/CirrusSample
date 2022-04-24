@@ -1,6 +1,6 @@
 using System.Text.Json.Serialization;
 
-namespace CirrusTest;
+namespace CirrusSample;
 
 public class TestModel
 {

@@ -11,7 +11,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Logging.Abstractions;
 using Serilog;
 
-namespace CirrusTest;
+namespace CirrusSample;
 
 public class Program
 {
